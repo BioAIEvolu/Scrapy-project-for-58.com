@@ -72,3 +72,4 @@ class City58TestSpider(scrapy.Spider):
         _ = self
         print(e)
         print('我报错了')
+        print('Test')
